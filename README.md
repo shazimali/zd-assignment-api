@@ -4,7 +4,7 @@ Zero Defects Laravel Assigment API's which seured by sacntum & mongodb. i have u
 
 
 ```bash
-php artisan migrate
+php artisan serve
 ```
 
 ## Tests
